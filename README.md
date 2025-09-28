@@ -1,3 +1,4 @@
+# OSC HACKATON PROJECT
 💊 MediTracker Pro
 MediTracker Pro is a Streamlit web application designed as a smart companion for managing your medication schedules, tracking adherence, and monitoring related health metrics like side effects and mood.
 
